@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="https://s3.amazonaws.com/img0.recordit.co/SFkanOPr1C.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1582410925&Signature=eXiFgfSqYnNQrcPdY%2FSotBhSk1M%3D" width=250><br>
+<img src="http://g.recordit.co/SFkanOPr1C.gif" width=250><br>
 
 ### Notes
 I wanted to try making the app's view controllers change depending on the device and the orientation. Hope I get to learn
